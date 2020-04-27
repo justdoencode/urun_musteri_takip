@@ -1,0 +1,12 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\bin\Debug\ürün_takip.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\bin\Debug\ürün_takip.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\bin\Debug\ürün_takip.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.frm_kayitlar.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.frm_saticiekle.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.frm_ürünekle.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\ürün_takip\ürün_takip\obj\Debug\ürün_takip.frm_müsteriekle.resources
